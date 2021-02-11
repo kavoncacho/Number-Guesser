@@ -34,6 +34,7 @@ function updateScore(winnerString) {
     }
     else {
         console.log('something fucking happened');
+        console.log('This is a test change. Hopefully this shows on Git');
     }
 }
 
