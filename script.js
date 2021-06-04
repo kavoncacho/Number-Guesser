@@ -35,6 +35,7 @@ function updateScore(winnerString) {
         console.log('This is a test change. Hopefully this shows on Git');
         console.log('Another change');
         console.log('for test branch only');
+        console.log('this is anothter test');
     }
 }
 
